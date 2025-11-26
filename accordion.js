@@ -1,5 +1,26 @@
 function makeAccordion(...props) {
   let string = ``;
+  const projectInfo = {
+  title: "TITLE",
+  text: `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Client</h2>
+      <p>NAME</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Description</h2>
+      <p>DESCRIPTION</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Duration</h2>
+      <p>September 2023 &rarr; May 2024</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Links</h2>
+      <p>Github Repository: REPO LINK</p>
+    </div>
+  `,
+};
   for (const k in props) {
     string += `
       <div class='accordion-item w-full ${k == 0 && 'rounded-t-xl'}'>
