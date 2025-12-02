@@ -20,3 +20,67 @@ function makeAccordion(...props) {
   }
   return `<div class='w-full mb-5'>${string}</div>`;
 }
+
+const projectInfoMPI001 = {
+  title: "MPI-001-Employment-Interest-Tool",
+  text: `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Client</h2>
+      <p>MPI-001 Employment Interesse Test</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Description</h2>
+      <p>Placement test for people with disability, the project was done using the TALL stack</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Duration</h2>
+      <p>September 2025 &rarr; October 2025</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Links</h2>
+      <p>Github Repository: https://github.com/Thomas-More-Digital-Innovation/2526-MPI-001-Employment-Interest-Tool.git</p>
+    </div>
+  `,
+};
+const projectInfoMOBI009 = {
+  title: "MOBI-009-Game-for-children-with-disabilities",
+  text: `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Client</h2>
+      <p>MOBILAB</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Description</h2>
+      <p>MOBILAB wanted a VR application that uses mixed reality (with reality passthrough) to train children that have motor disabilities. The application scans the environment, finds a type of furniture the user defined as a table in the headset settings and places and scales the car track according to it</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Duration</h2>
+      <p>October 2025 &rarr; On-going</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Links</h2>
+      <p>Github Repository: https://github.com/Thomas-More-Digital-Innovation/2526-MOBI-009-Game-for-children-with-disabilities.git</p>
+    </div>
+  `,
+};
+const projectInfoMOBI016 = {
+  title: "MOBI-016-I-m-in-tales-project",
+  text: `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Client</h2>
+      <p>MOBILAB</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Description</h2>
+      <p>MOBILAB requested a revision of an old project that got abandoned, We we're required to create an application that communicates with an NFC reader to give it interactivity, the scanned object with a nfc tag would change the outcome in the choose your own adventure type game</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Duration</h2>
+      <p>October 2025 &rarr; On-going</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Links</h2>
+      <p>Github Repository: https://github.com/Thomas-More-Digital-Innovation/2526-MOBI-016-I-m-in-tales-project.git</p>
+    </div>
+  `,
+};

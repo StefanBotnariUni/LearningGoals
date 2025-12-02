@@ -4,9 +4,9 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.2 You identify and justify non-functional requirements for your project based on the ISO25010 quality model, ensuring that reliability and security are explicitly addressed. ": {
@@ -14,45 +14,45 @@ const doelstellingen = {
         "APP","AI",
         "CCS"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.3 You research and compare various software solutions and substantiate your best choice with strong arguments by using the Weighted Decision Matrix technique or an equivalent.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.4 You apply the principles of object-oriented modelling to create accurate and well-structured class and sequence diagrams that effectively represent system components, their relationships, and interactions.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.5 You cleverly deploy GRASP patterns to make your designs next-level.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.6 You identify the functional and non-functional requirements based on a defined software assignment formulated by an internal client unfamiliar with IT": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Software Modelling & Design",
       "bewijs": ""
     },
     "1.7 You dissect stated requirements and choose the most appropriate technologies to meet those requirements": {
@@ -115,34 +115,34 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
-      "project": "",
+      "project": "React & .NET API",
       "bewijs": ""
     },
     "2.5 You integrate your chatbot with a database using the Repository design pattern": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
-      "project": "",
+      "project": "React & .NET API",
       "bewijs": ""
     },
     "2.6 You integrate a Conversational Language Understanding Model into your chatbot": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
-      "project": "",
+      "project": "React & .NET API",
       "bewijs": ""
     },
     "2.7 You integrate into the App a Computer Vision model for Object Detection, Image Classification, OCR, ...": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -151,7 +151,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -160,7 +160,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -169,7 +169,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -178,7 +178,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -187,7 +187,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -196,7 +196,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -205,7 +205,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -214,7 +214,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -223,7 +223,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -232,7 +232,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -241,7 +241,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -250,7 +250,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -259,7 +259,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -268,7 +268,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -277,7 +277,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -288,7 +288,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -297,7 +297,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -306,7 +306,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -315,7 +315,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -324,7 +324,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -333,25 +333,25 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-016 I'm in tales",
+      "bewijs": "${makeAccordion(projectInfoMOBI016)} Application is component based built in react next.js"
     },
     "3.7 You manage state, user interactions, and asynchronous data to create dynamic user experiences.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-016 I'm in tales",
+      "bewijs": "${makeAccordion(projectInfoMOBI016)} Application is in tauri, I built a function that uses the tauri API and React to handle the fullscreen toggle, async for the tauri API, user interaction from the button and state management via useState() <img src='/assets/LG3,7.png' alt='lg3.7'>"
     },
     "3.8 You apply core front-end architecture principles to develop scalable and maintainable applications.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -360,7 +360,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -369,16 +369,16 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-016 I'm in tales",
+      "bewijs": "${makeAccordion(projectInfoMOBI016)}"
     },
     "3.11 You develop and present your design in a way that is easily transferable to stakeholders (including developers), with attention to the application of a design system.": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -390,7 +390,7 @@ const doelstellingen = {
         "APP","AI",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -399,7 +399,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -408,7 +408,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -417,7 +417,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -426,7 +426,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -435,7 +435,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -444,7 +444,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -454,7 +454,7 @@ const doelstellingen = {
         "APP","AI",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -464,7 +464,7 @@ const doelstellingen = {
         "APP","AI",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -494,9 +494,9 @@ const doelstellingen = {
         "CCS",
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
+      "project": "Tech Talks 1",
       "bewijs": ""
     },
     "5.3 You present your online portfolio, according to your personal brand, to a limited audience": {
@@ -504,7 +504,7 @@ const doelstellingen = {
         "CCS",
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -513,9 +513,9 @@ const doelstellingen = {
       "type": [
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "Skill Integration Lab 2",
       "bewijs": ""
     },
     "5.5 Research culturally relevant topics. Delve into current, social issues that affect your IT workplace. Consider how you can use technology to positively impact the world around you.": {
@@ -783,7 +783,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -792,7 +792,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -802,37 +802,37 @@ const doelstellingen = {
         "CCS",
         "DI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MPI-001 Employee Interest Test",
+      "bewijs": "${makeAccordion(projectInfoMPI001)}"
     },
     "5.37 You use the scrum methodology to execute projects": {
       "type": [
         "DI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MPI-001 Employee Interest Test",
+      "bewijs": "${makeAccordion(projectInfoMPI001)}"
     },
     "5.38 You actively participate and collaborate effectively in a group setting": {
       "type": [
         "DI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-016-I-m-in-tales-project",
+      "bewijs": "${makeAccordion(projectInfoMPI001)}"
     },
     "5.39 You communicate professionally, both verbally and in writing with an (internal) client": {
       "type": [
         "DI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-009 Game for children with disabilities",
+      "bewijs": "${makeAccordion(projectInfoMOBI009)}"
     },
     "5.40 You evaluate your own actions and make adjustments if necessary": {
       "type": [
@@ -959,7 +959,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -968,7 +968,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -977,7 +977,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -986,7 +986,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -995,7 +995,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1397,16 +1397,16 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-009-Game-for-children-with-disabilities",
+      "bewijs": "${makeAccordion(projectInfoMOBI009)} the project uses Unity3D and every object within the game + every 'piece of logic' that I had to integrate was a class."
     },
     "10.2 You explain and apply advanced object-oriented programming concepts within the context of enterprise-level software development.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1415,16 +1415,16 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MPI-001",
+      "bewijs": "${makeAccordion(projectInfoMPI001)}"
     },
     "10.4 You design and build RESTful APIs using a modern web framework, applying appropriate architectural conventions and documentation standards.": {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1433,7 +1433,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1442,7 +1442,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1451,7 +1451,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1460,7 +1460,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1469,7 +1469,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1478,7 +1478,7 @@ const doelstellingen = {
       "type": [
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1487,7 +1487,7 @@ const doelstellingen = {
       "type": [
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1496,7 +1496,7 @@ const doelstellingen = {
       "type": [
         "APPAI, DI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1505,7 +1505,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1514,25 +1514,25 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-009-Game-for-children-with-disabilities",
+      "bewijs": "${makeAccordion(projectInfoMOBI009)} the VR headset works via phone and the headset itself is basically an android phone, this counts as a mobile application."
     },
     "10.15 You explore and experiment with Augmented Reality technologies and frameworks.": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "MOBI-009-Game-for-children-with-disabilities",
+      "bewijs": "${makeAccordion(projectInfoMOBI009)} MetaXR Tools"
     },
     "10.16 You develop an intelligent application according to a structured design pattern (such as MVVM or an equivalent architectural pattern).": {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1541,7 +1541,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1550,7 +1550,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1559,7 +1559,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1568,7 +1568,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1577,7 +1577,7 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1586,7 +1586,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1595,7 +1595,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1604,7 +1604,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1613,7 +1613,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1622,7 +1622,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1631,7 +1631,7 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1644,7 +1644,7 @@ const doelstellingen = {
         "APP",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1655,7 +1655,7 @@ const doelstellingen = {
         "APP",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1666,7 +1666,7 @@ const doelstellingen = {
         "APP",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1677,7 +1677,7 @@ const doelstellingen = {
         "APP",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
@@ -1688,7 +1688,7 @@ const doelstellingen = {
         "APP",
         "CCS"
       ],
-      "status": "",
+      "status": "td",
       "verified": "",
       "project": "",
       "bewijs": ""
