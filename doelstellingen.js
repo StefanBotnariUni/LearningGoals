@@ -540,10 +540,10 @@ const doelstellingen = {
       "type": [
         "ALLES"
       ],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "BIP Deggendorf",
+      "bewijs": "Actively participated in a research assignment in Germany, took every opportunity (3 times) to speak in front of class, in front of people that I have just met."
     },
     "5.8 Conduct professional conversations with clients and understand their needs. Upon completion of a project, create a clear and structured final report with reliable sources so that you can always present your findings with conviction and confidence.": {
       "type": [
@@ -558,10 +558,10 @@ const doelstellingen = {
       "type": [
         "ALLES"
       ],
-      "status": "td",
+      "status": "d",
       "verified": "",
-      "project": "",
-      "bewijs": ""
+      "project": "Tech Talk 1",
+      "bewijs": "I have learned that making the presentation seem like a story or create 'transitions' between slides makes it much easier to follow for the audience."
     },
     "5.10 You act efficiently, with perseverance and initiative, and carry out assignments ethically, creatively, deontologically, and socially responsibly, taking responsibility for the results.\"": {
       "type": [
