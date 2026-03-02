@@ -4,56 +4,56 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.2 You identify and justify non-functional requirements for your project based on the ISO25010 quality model, ensuring that reliability and security are explicitly addressed. ": {
       "type": [
         "APP","AI",
         "CCS"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.3 You research and compare various software solutions and substantiate your best choice with strong arguments by using the Weighted Decision Matrix technique or an equivalent.": {
       "type": [
         "APP","AI"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.4 You apply the principles of object-oriented modelling to create accurate and well-structured class and sequence diagrams that effectively represent system components, their relationships, and interactions.": {
       "type": [
         "APP","AI"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.5 You cleverly deploy GRASP patterns to make your designs next-level.": {
       "type": [
         "APP","AI"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.6 You identify the functional and non-functional requirements based on a defined software assignment formulated by an internal client unfamiliar with IT": {
       "type": [
         "APP","AI"
       ],
-      "status": "ip",
+      "status": "d",
       "verified": "",
       "project": "Software Modelling & Design",
-      "bewijs": ""
+      "bewijs": "${makeAccordion(courseSoftwareModelling)}"
     },
     "1.7 You dissect stated requirements and choose the most appropriate technologies to meet those requirements": {
       "type": [
@@ -117,25 +117,25 @@ const doelstellingen = {
       ],
       "status": "td",
       "verified": "",
-      "project": "React & .NET API",
+      "project": "",
       "bewijs": ""
     },
     "2.5 You integrate your chatbot with a database using the Repository design pattern": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "React & .NET API",
+      "project": "VTC-003",
       "bewijs": ""
     },
     "2.6 You integrate a Conversational Language Understanding Model into your chatbot": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "React & .NET API",
+      "project": "VTC-003",
       "bewijs": ""
     },
     "2.7 You integrate into the App a Computer Vision model for Object Detection, Image Classification, OCR, ...": {
@@ -169,9 +169,9 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003",
       "bewijs": ""
     },
     "2.11 Making data-driven decisions: you will learn how to draw informed conclusions and provide valuable advice.": {
@@ -290,7 +290,7 @@ const doelstellingen = {
       ],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "MPI-001",
       "bewijs": ""
     },
     "3.2 You design and implement a user-friendly, responsive interface using a modern utility-first CSS framework.": {
@@ -308,7 +308,7 @@ const doelstellingen = {
       ],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "MPI-001",
       "bewijs": ""
     },
     "3.4 You build a CRUD application that follows the MVC design pattern within a web framework.": {
@@ -317,7 +317,7 @@ const doelstellingen = {
       ],
       "status": "td",
       "verified": "",
-      "project": "",
+      "project": "MPI-001",
       "bewijs": ""
     },
     "3.5 You master the basic principles of server-side programming.": {
@@ -1541,45 +1541,45 @@ const doelstellingen = {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.18 You integrate an AI model into an application and use it to implement intelligent functionality.": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.19 You develop a transactional chatbot that guides users through specific processes or actions.": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.20 You analyze the possibilities of natural language models (Conversational Language Understanding) in relation to your project idea.": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.21 You integrate a language comprehension model into an application to support speech or text interactions.": {
       "type": [
         "APP"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.22 The student develops a reactive full-stack application using Angular as front-end and a self-selected backend technology according to the latest best practices": {
@@ -1595,18 +1595,18 @@ const doelstellingen = {
       "type": [
         "APP","AI"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "MOBI-016-I-m-in-tales-project",
       "bewijs": ""
     },
     "10.24 The student analyses functional and non-functional requirements based on collected customer needs and translates them into concrete development criteria": {
       "type": [
         "APP","AI"
       ],
-      "status": "td",
+      "status": "ip",
       "verified": "",
-      "project": "",
+      "project": "VTC-003 NLP in dashboards",
       "bewijs": ""
     },
     "10.25 The student designs and implements an automated CI/CD pipeline that automatically deploys code to development, test and production environments according to a predefined Git branching strategy.": {

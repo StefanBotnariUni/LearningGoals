@@ -104,3 +104,19 @@ const projectInfoMOBI016 = {
     </div>
   `,
 };
+const courseSoftwareModelling = {
+  title: "Software Modelling & Design",
+  text: `
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Course</h2>
+      <p>Software Modelling & Design</p>
+    </div>
+    <div class='flex flex-col py-2'>
+      <img src='assets/image.png' alt="Courses"/>
+    </div>
+    <div class='flex flex-col py-2'>
+      <h2 class='text-lg font-bold'>Project Duration</h2>
+      <p>Passed</p>
+    </div>
+  `
+}
